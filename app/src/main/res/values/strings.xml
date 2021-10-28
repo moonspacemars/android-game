@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BallonGame</string>
+    <string name="Name">Name</string>
+    <string name="Score">Score</string>
+    <string name="Date">Date</string>
+    <string name="rNo">rNo</string>
+    <string name="add">add</string>
+</resources>
